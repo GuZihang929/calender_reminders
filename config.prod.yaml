@@ -8,7 +8,7 @@ jwt:
 mysql:
   path: '127.0.0.1:3306'
   config: 'charset=utf8mb4&parseTime=True&loc=Local'
-  db-name: 'library_project'
+  db-name: 'calender_reminders'
   username: 'root'
   password: '123456'
   max-idle-conns: 200
